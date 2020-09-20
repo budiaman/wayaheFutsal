@@ -7,7 +7,7 @@ Persiapan Instalasi :
   2. Download dan Install Node
   3. Download dan Install Android Studio
   4. Buat baru Android Virtual Device
-  5. Download Emulator external, jika tidak ingin menggunakan emulator bawaaan Android studdio, seperti :
+  5. Download Emulator external, jika tidak ingin menggunakan emulator bawaaan Android studio, seperti :
         > Genymotion, dll
   6. npm install -g react-native-cli
         > see :: https://reactnative.dev/docs/getting-started
